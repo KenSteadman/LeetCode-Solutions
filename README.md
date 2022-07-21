@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow)
+![Language](https://img.shields.io/badge/Language-Python-306998.svg?logo=Python&logoColor=FFE873&?style=for-the-badge)
 
 # Python solution for Leetcode
 Python solution of problems from [LeetCode](https://leetcode.com/).
