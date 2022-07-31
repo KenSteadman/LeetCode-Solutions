@@ -7,3 +7,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./Python/1._Two_Sum.ipynb)|Easy|
+|2|[Two Sum](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/2._Add_Two_Numbers.ipynb)|Medium|
